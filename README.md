@@ -1,1 +1,46 @@
-# Paytm-Excel-Project
+**Project: Stock Price Forecasting with Regression Model**
+--------_----------------------------------------------------
+
+Overview
+---------
+Implemented a stock price forecasting model using regression analysis to predict future share prices based on historical stock data. The project involved analyzing financial market trends, developing a regression model, and evaluating its predictive accuracy.
+
+Project Details:
+-----------------
+
+Data Collection:
+------------------
+Extracted historical stock data from financial markets, including Date, Open, High, Low, Close, Adjusted Close, and Volume.
+Regression Model Development:
+
+Utilized a regression model (y = a + bx) for stock price forecasting.
+Calculated coefficients Alpha (a) and Beta (b) to determine the relationship between independent and dependent variables.
+Forecasting and Evaluation:
+
+Forecasted future share prices for specific dates using the developed model.
+Evaluated the model's performance using key metrics:
+Mean Absolute Deviation (MAD): 439.79
+Mean Squared Error (MSE): 193,413.21
+Mean Absolute Percentage Error (MAPE): 57.6%
+
+Outcome:
+----------
+Successfully predicted stock prices for future dates, providing insights into potential market trends.
+Key Achievements:
+
+Achieved a MAPE of 57.6%, indicating a reasonable level of accuracy in the forecasting model.
+Implemented regression analysis with Alpha (a) as 54,588.98 and Beta (b) as -1.2049.
+Technologies Used:
+
+Excel for data manipulation and analysis.
+
+Challenges and Learning:
+-------------------------
+
+Overcame challenges in data preprocessing and model fine-tuning.
+Gained valuable experience in applying regression analysis to real-world financial data.
+
+Next Steps:
+-------------
+Explore advanced forecasting techniques.
+Incorporate additional features for improved model accuracy.
